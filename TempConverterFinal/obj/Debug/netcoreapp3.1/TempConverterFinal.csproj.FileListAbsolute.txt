@@ -1,0 +1,12 @@
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.csprojAssemblyReference.cache
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.AssemblyInfoInputs.cache
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.AssemblyInfo.cs
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.csproj.CoreCompileInputs.cache
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/bin/Debug/netcoreapp3.1/TempConverterFinal.deps.json
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/bin/Debug/netcoreapp3.1/TempConverterFinal.runtimeconfig.json
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/bin/Debug/netcoreapp3.1/TempConverterFinal.runtimeconfig.dev.json
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/bin/Debug/netcoreapp3.1/TempConverterFinal.dll
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/bin/Debug/netcoreapp3.1/TempConverterFinal.pdb
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.dll
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.pdb
+/Users/akiichris/Documents/GrandCircus/TempConverterFinal/TempConverterFinal/obj/Debug/netcoreapp3.1/TempConverterFinal.genruntimeconfig.cache
